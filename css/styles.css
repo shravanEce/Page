@@ -1,0 +1,84 @@
+body{
+    background: url("../images/bg.jpg") repeat,no-repeat;
+}
+#whole-body{
+    background-color: white;
+}
+#aldi{
+    color:rgba(243, 6, 6, 0.925);
+    font-size: 20px;
+    padding-top: 19px;
+    padding-bottom: 10px;
+}
+#boald{
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+#para{
+    font-size: 15px;
+    padding-left: 60px;
+    padding-right: 61px;
+}
+
+#alert{
+    background-color: rgb(255, 0, 0);
+    padding: 2%;
+    margin-left:15%;
+    margin-right: 15%;
+    text-align: center;
+    font-size: large;
+    color: white;
+}
+#alert p{
+    margin-bottom: 0;
+}
+.whole{
+    background: rgb(243, 240, 240);
+}
+.p-3{
+    color:rgb(72, 72, 253);
+    float:right;
+}
+.parent{
+    position: relative;
+}
+.c1 {
+    position: absolute;
+    top: -8%;
+    right: 55%;
+}
+.c2 {
+    position: absolute;
+    top: 22%;
+    right: 31%;
+}
+#box{
+    margin-top: 0;
+    padding-left: 15%;
+    padding-right: 6%;
+    background-color: rgba(235,224,212,0.062);
+}
+#alert{
+    position: relative;
+    background-color: rgb(255, 0, 0);
+    padding: 2%;
+    margin-left:15%;
+    margin-right: 15%;
+    text-align: center;
+    font-size: large;
+    color: white;
+    margin-bottom: 0;
+}
+.img1 {
+    position: absolute;
+    top: 37%;
+    right: 2%;
+}
+.img2 {
+    position: absolute;
+    top: 37%;
+    left: 2%;
+}
+#alert p{
+    margin-bottom: 0;
+}
